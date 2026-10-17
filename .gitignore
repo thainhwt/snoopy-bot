@@ -1,0 +1,8 @@
+.env
+*.key
+venv/
+__pycache__/
+
+*.json
+!package.json
+!data/cooldowns.json
