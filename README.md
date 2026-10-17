@@ -19,7 +19,8 @@ Release Date: 21/08/2026
 
 - Reminders: Hunt/Battle, Pray/Curse, and Huntbot.
 - Captcha alerts with optional phone notifications.
-- Profile statistics for activity and battle results.
+- Profile statistics for activity and battle results, items counter.
+- Server leaderboards.
 - Interactive settings with buttons and menus.
 
 ## 📖 About this repository
