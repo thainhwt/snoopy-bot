@@ -1,12 +1,25 @@
-# Snoopy Bot 🐾
+<div align="center">
 
-## Features
+# 🐾 Snoopy 🐾
 
-- OwO Reminders: Hunt/Battle, Pray/Curse, and HuntBot.
+### Reminder • Stats • Leaderboard • Custom
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-2.4%2B-5865F2?logo=discord&logoColor=white)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Prefix](https://img.shields.io/badge/default%20prefix-s-orange)
+
+</div>
+
+---
+
+## 🚀 Features
+
+- Reminders: Hunt/Battle, Pray/Curse, and Huntbot.
 - Captcha alerts with optional phone notifications.
 - Profile statistics for activity and battle results.
 - Interactive settings with buttons and menus.
 
-## About this repository
+## 📖 About this repository
 
 i dont even know when i will make the bot's source code public :D
