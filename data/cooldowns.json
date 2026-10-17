@@ -1,0 +1,17 @@
+{
+  "owo": {
+    "seconds": 10,
+    "commands": ["owo"],
+    "ping": true
+  },
+  "hunt/battle": {
+    "seconds": 15,
+    "commands": ["hunt", "h", "battle", "b", "fight"],
+    "ping": true
+  },
+  "pray/curse": {
+    "seconds": 300,
+    "commands": ["pray", "curse"],
+    "ping": true
+  }
+}
