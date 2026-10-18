@@ -26,3 +26,5 @@ Release Date: 21/08/2026 (Private Only)
 ## 📖 About this repository
 
 i dont even know when i will make the bot's source code public :D
+
+![Snoopy Bot](./snoopy.png)
