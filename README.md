@@ -21,10 +21,14 @@ Release Date: 21/08/2026 (Private Only)
 - Captcha alerts with optional phone notifications.
 - Profile statistics for activity and battle results, items counter.
 - Server leaderboards.
-- Interactive settings with buttons and menus.
+- Interactive settings with buttons and menus. (i put lots of care into Snoopy's UI)
+
+## 📊 Profile Statistics Preview
+
+![Snoopy profile statistics](./image/snoopyprofile.png)
 
 ## 📖 About this repository
 
-i dont even know when i will make the bot's source code public :D
+i dont even know when i will make the bot public :D
 
 ![Snoopy Bot](./image/snoopy.png)
