@@ -6,10 +6,10 @@
 
 Release Date: 21/08/2026 (Private Only)
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-2.4%2B-5865F2?logo=discord&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Prefix](https://img.shields.io/badge/default%20prefix-s-white)
+![prefix](https://img.shields.io/badge/default%20prefix-s-white)
 
 </div>
 
