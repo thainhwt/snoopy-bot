@@ -17,7 +17,7 @@ Release Date: 21/08/2026 (Private Only)
 
 ## 🚀 Features
 
-- Reminders: Hunt/Battle, Pray/Curse, and Huntbot.
+- Reminders: Hunt/Battle, Pray/Curse, Huntbot, and Captcha.
 - Captcha alerts with optional phone notifications.
 - Profile statistics for activity and battle results, items counter.
 - Server leaderboards.
