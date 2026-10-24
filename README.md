@@ -22,7 +22,7 @@ Release Date: 21/08/2026 (Private Only)
 - Captcha alerts with optional phone notifications.
 - Profile statistics for activity and battle results, items counter.
 - Server leaderboards.
-- Interactive settings with buttons and menus. (i put lots of care into Snoopy's UI)
+- Interactive settings with buttons and menus (i put lots of care into Snoopy's UI).
 - Combined with AutoHotkey.
 
 ## 📊 Profile Statistics Preview
