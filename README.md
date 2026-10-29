@@ -21,6 +21,7 @@ Release Date: 21/08/2026 (Private Only)
 - Reminders: Hunt/Battle, Pray/Curse, Huntbot, and Captcha.
 - Captcha alerts with optional phone notifications.
 - Profile statistics for activity and battle results, items counter.
+- Gem combo suggestions from inventory and reminders when active gems run out.
 - Server leaderboards.
 - Interactive settings with buttons and menus (i put lots of care into Snoopy's UI).
 - Combined with AutoHotkey.
